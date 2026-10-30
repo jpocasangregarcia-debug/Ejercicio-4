@@ -1,0 +1,32 @@
+body{
+    background-color: #be6c06;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.Contenedor{
+    margin-top: 80px;
+}
+
+h2{
+    font-size: 50px;
+    color: #ea580c;
+}
+
+button{
+    padding: 12px 20px;
+    margin: 5px;
+    border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+
+#sumar{
+    background-color: cadetblue;
+    color: white;
+}
+
+#reiniciar{
+    background-color: aqua;
+    color: white;
+}
